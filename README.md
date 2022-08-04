@@ -14,3 +14,5 @@
 10. [保存模型](https://github.com/tfcrft/DigitClassificationCNN/blob/main/README.md#保存模型 "保存模型")
 
 ## 介绍
+
+> 这个程序实现了基于 [**MNIST数据集** *(http://yann.lecun.com/exdb/mnist/)*](http://yann.lecun.com/exdb/mnist/ "MNIST数据集") 的黑白数字识别功能。
