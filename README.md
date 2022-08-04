@@ -15,5 +15,6 @@
 
 ## 介绍
 
-> 这个程序实现了基于 [**MNIST数据集** *(http://yann.lecun.com/exdb/mnist/)*](http://yann.lecun.com/exdb/mnist/ "MNIST数据集") 的黑白数字识别功能。  
+> 这个程序实现了基于 [**MNIST数据集** *(http://yann.lecun.com/exdb/mnist/)*](http://yann.lecun.com/exdb/mnist/ "MNIST数据集") 的黑白数字识别功能。
+> 这个程序使用[**PaddlePaddle 源于产业实践的开源深度学习平台**](https://www.paddlepaddle.org.cn/ "PaddlePaddle")打造。    
 > 这个程序搭建了一个卷积神经网络，力求在性能与速度间找到平衡点。
