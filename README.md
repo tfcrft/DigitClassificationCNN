@@ -28,3 +28,7 @@ import paddle.nn.functional as F
 from paddle.vision.transforms import Compose,Normalize
 from paddle.metric import Accuracy
 ```
+
+## 加载数据集并转换
+
+> 这个程序采用的==MNIST数据集==，包含60,000个用于训练的手写数字示例和10,000个用于测试的手写数字示例。
